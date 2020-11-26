@@ -8,7 +8,12 @@ info:
   title: Comment-integration
 servers:
   - url: 'http://localhost:3000'
+  asdasd
+  asdsad
+  asdsad
 paths:
+sad
+
   /user:
     get:
     asdsad
