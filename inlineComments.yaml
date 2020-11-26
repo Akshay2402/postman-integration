@@ -27,7 +27,7 @@ sad
     for
     inline
     comment
-      summary: 'Sample endpoint: Returns details about a particular user'
+      summary: 'Sample endpoint: Returns details about a particular user'asdsadasd
       operationId: listUser
       tags:
         - user
