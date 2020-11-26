@@ -11,6 +11,9 @@ servers:
 paths:
   /user:
     get:
+    asdsad
+    asddas
+    asdsad
       summary: 'Sample endpoint: Returns details about a particular user'
       operationId: listUser
       tags:
