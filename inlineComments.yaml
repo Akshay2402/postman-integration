@@ -37,6 +37,8 @@ sad
     a
     good
     day
+    debug
+    calls
       summary: 'Sample endpoint: Returns details about a particular user'asdsadasd
       operationId: listUser
       tags:
